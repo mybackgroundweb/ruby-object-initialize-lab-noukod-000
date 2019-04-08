@@ -11,4 +11,12 @@ class Dog
   def breed
     @bread=breed
   end
+  
+  def name 
+    @name
+  end
+  
+  def breed
+    @bread
+  end
 end
